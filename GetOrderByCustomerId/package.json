@@ -1,0 +1,18 @@
+{
+  "name": "GetOrderByCustomerId",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "azure-storage": "1.3.1",
+    "mysql": "latest",
+    "path": "0.12.7",
+    "util": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
